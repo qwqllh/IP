@@ -14,7 +14,7 @@
             $im = imagecreatefromjpeg("images/xhxh.jpg");
             break;
         case "2": 
-            if ($pic=="images/Chtholly")
+            if ($pic=="Chtholly")
             {
                 $im = imagecreatefromjpeg("images/qmd_Chtholly.jpg");
             }
