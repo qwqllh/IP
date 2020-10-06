@@ -26,7 +26,7 @@ PSD源文件也已上传，如需其他请自己更改（别忘了改坐标）�
 
 可能需要时不时更新一下根目录下的GeoLite2-City.mmdb文件。
 
-更新链接：[https://dev.maxmind.com/geoip/geoip2/downloadable/](https://dev.maxmind.com/geoip/geoip2/downloadable/)
+更新链接：[http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.mmdb.gz](http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.mmdb.gz)
 
 同时修改了原来``index.php``代码屎一样的缩进。
 
