@@ -11,24 +11,24 @@
     switch ($mode)
     {
         case "1": 
-            $im = imagecreatefromjpeg("xhxh.jpg");
+            $im = imagecreatefromjpeg("images/xhxh.jpg");
             break;
         case "2": 
-            if ($pic=="Chtholly")
+            if ($pic=="images/Chtholly")
             {
-                $im = imagecreatefromjpeg("qmd_Chtholly.jpg");
+                $im = imagecreatefromjpeg("images/qmd_Chtholly.jpg");
             }
             else if ($pic=="Pipi")
             {
-                $im = imagecreatefromjpeg("qmd_pipi.jpg");
+                $im = imagecreatefromjpeg("images/qmd_pipi.jpg");
             }
             else 
             {
-                $im = imagecreatefromjpeg("qmd.jpg");
+                $im = imagecreatefromjpeg("images/qmd.jpg");
             }
             break;
         default:
-            $im = imagecreatefromjpeg("xhxh.jpg");
+            $im = imagecreatefromjpeg("images/xhxh.jpg");
             break;
     }
 
@@ -36,7 +36,7 @@
     $weekarray = array("日","一","二","三","四","五","六");
     
     // 引入geoip
-    $reader = new Reader('./GeoLite2-City.mmdb');
+    $reader = new Reader('GeoIP/GeoLite2-City.mmdb');
     $record = $reader->city($ip);
     
     $country = $record->country->names['zh-CN'];
