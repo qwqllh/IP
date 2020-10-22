@@ -30,16 +30,14 @@ PSD源文件也已上传，如需其他请自己更改（别忘了改坐标）�
 
 同时修改了原来``index.php``代码屎一样的缩进。
 
-### 以下为原作的介绍~
 # IP签名档源码
-<h2>说在前面</h2>
-自从论坛IP签名档开放以来，访问量达到1806287，一百八十多万，由于证书过期和懒得维护。今特开源。
+
 <h2>演示效果</h2>
-<a href="https://blog.icysky.cn/ipcounter">https://blog.icysky.cn/ipcounter </a>
+<a href="https://ipcounter.icysky.site">https://ipcounter.icysky.site</a>
 
-我服务器上用的是PRC_ChuYin.jpg这张图，修改的时候请注意修改文字坐标。
+PS：本人服务器上用的是PRC_ChuYin.jpg这张图，修改的时候请注意修改文字坐标。
 
-另外，请注意服务器上的这个版本并不支持传入参数。
+PSS：请注意本人服务器上的这个版本并不支持传入参数。
 
 <h2>原帖地址</h2>
 
