@@ -33,7 +33,7 @@ PSD源文件也已上传，如需其他请自己更改（别忘了改坐标）�
 # IP签名档源码
 
 <h2>演示效果</h2>
-<img src="https://ipcounter.icysky.site">
+![](https://ipcounter.icysky.site)
 
 PS：本人服务器上用的是PRC_ChuYin.jpg这张图，修改的时候请注意修改文字坐标。
 
